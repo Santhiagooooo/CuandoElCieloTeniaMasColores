@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraft:block/ancient_debris_side",
+    "up": "minecraft:block/ancient_debris_side",
+    "north": "minecraft:block/ancient_debris_top",
+    "east": "minecraft:block/ancient_debris_top",
+    "south": "minecraft:block/ancient_debris_top",
+    "west": "minecraft:block/ancient_debris_top",
+    "particle": "minecraft:block/ancient_debris_side"
+  },
+  "render_type": "solid"
+}

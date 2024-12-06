@@ -9,6 +9,38 @@
       "metadata": {
         "files": []
       }
+    },
+    {
+      "name": "Ejemplo",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ejemplo",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cuando_el_cielo_tenia_mas_colore/models/block/ejemplo.json",
+          "src/main/resources/assets/cuando_el_cielo_tenia_mas_colore/models/item/ejemplo.json",
+          "src/main/java/net/mcreator/cuandoelcieloteniamascolore/block/EjemploBlock.java",
+          "src/main/resources/assets/cuando_el_cielo_tenia_mas_colore/blockstates/ejemplo.json",
+          "src/main/resources/data/cuando_el_cielo_tenia_mas_colore/loot_tables/blocks/ejemplo.json"
+        ]
+      }
+    },
+    {
+      "name": "Aaaaaaaaa",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aaaaaaaaa",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cuando_el_cielo_tenia_mas_colore/loot_tables/blocks/aaaaaaaaa.json",
+          "src/main/resources/assets/cuando_el_cielo_tenia_mas_colore/blockstates/aaaaaaaaa.json",
+          "src/main/resources/assets/cuando_el_cielo_tenia_mas_colore/models/item/aaaaaaaaa.json",
+          "src/main/resources/assets/cuando_el_cielo_tenia_mas_colore/models/block/aaaaaaaaa.json",
+          "src/main/java/net/mcreator/cuandoelcieloteniamascolore/block/AaaaaaaaaBlock.java"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -17,7 +49,9 @@
   "tab_element_order": {},
   "language_map": {
     "en_us": {
-      "item_group.cuando_el_cielo_tenia_mas_colore.cetmc": "CETMC"
+      "item_group.cuando_el_cielo_tenia_mas_colore.cetmc": "CETMC",
+      "block.cuando_el_cielo_tenia_mas_colore.ejemplo": "Ejemplo",
+      "block.cuando_el_cielo_tenia_mas_colore.aaaaaaaaa": "Aaaaaaaaa"
     }
   },
   "foldersRoot": {

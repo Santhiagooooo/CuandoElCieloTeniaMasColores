@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "cuando_el_cielo_tenia_mas_colore:blocks/aaaaaaaaa",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cuando_el_cielo_tenia_mas_colore:aaaaaaaaa"
+        }
+      ]
+    }
+  ]
+}

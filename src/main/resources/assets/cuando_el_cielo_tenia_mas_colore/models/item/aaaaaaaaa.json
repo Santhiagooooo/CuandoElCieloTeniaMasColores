@@ -1,0 +1,22 @@
+{
+  "parent": "cuando_el_cielo_tenia_mas_colore:block/aaaaaaaaa",
+  "display": {
+    "thirdperson": {
+      "rotation": [
+        10,
+        -45,
+        170
+      ],
+      "translation": [
+        0,
+        1.5,
+        -2.75
+      ],
+      "scale": [
+        0.375,
+        0.375,
+        0.375
+      ]
+    }
+  }
+}

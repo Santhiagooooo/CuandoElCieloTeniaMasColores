@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cuando_el_cielo_tenia_mas_colore:block/aaaaaaaaa"
+    },
+    "facing=east": {
+      "model": "cuando_el_cielo_tenia_mas_colore:block/aaaaaaaaa",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cuando_el_cielo_tenia_mas_colore:block/aaaaaaaaa",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cuando_el_cielo_tenia_mas_colore:block/aaaaaaaaa",
+      "y": 270
+    }
+  }
+}
