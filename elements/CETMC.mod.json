@@ -1,0 +1,11 @@
+{
+  "_fv": 69,
+  "_type": "tab",
+  "definition": {
+    "name": "CETMC",
+    "icon": {
+      "value": "Blocks.POINTED_DRIPSTONE"
+    },
+    "showSearch": false
+  }
+}
